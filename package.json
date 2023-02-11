@@ -1,0 +1,23 @@
+{
+  "name": "devprevisao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafael83ravi/dev-previsao.git"
+  },
+  "author": "rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafael83ravi/dev-previsao/issues"
+  },
+  "homepage": "https://github.com/rafael83ravi/dev-previsao#readme",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
